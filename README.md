@@ -1,3 +1,3 @@
 # overthewire-wu
 
--- bandit
+-- bandit LEVEL = 5
