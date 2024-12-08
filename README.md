@@ -1,4 +1,7 @@
 # overthewire-wu
 
--- bandit LEVEL = 5
--- natas LEVEL = 2
+-- _bandit_ LEVEL = 5
+
+
+-- _natas_ LEVEL = 2
+
