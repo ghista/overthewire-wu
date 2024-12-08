@@ -1,5 +1,5 @@
 ### LEVEL 0
-```shell
+```console
 bandit@labs:~$ cat _fichier_
 ```
 
