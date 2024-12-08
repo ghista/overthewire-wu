@@ -1,6 +1,6 @@
 ### LEVEL 0
 ```bash
-cat _fichier_
+bandit@labs:~$ cat _fichier_
 ```
 
 ### LEVEL 1 to 2
