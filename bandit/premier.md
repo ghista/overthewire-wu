@@ -19,3 +19,9 @@ cd _dossier_
 ls -a
 cat _...fichier_caché_
 ```
+### LEVEL 4 to 5
+```console
+bandit@labs:~$ cd inhere
+bandit@labs:~$ file ./-file0*
+```
+Choix du ASCII type.
