@@ -25,3 +25,14 @@ bandit@labs:~$ cd inhere
 bandit@labs:~$ file ./-file0*
 ```
 Choix du ASCII type.
+
+### LEVEL 5 to 6
+```console
+bandit@labs:~$ find _dossier_ -type f -readable ! -executable -size 1033c
+```
+
+### LEVEL 6 to 7
+```console
+bandit@labs:~$ cd /
+bandit@labs:~$ find -group bandit6 -user bandit7 -size 33c
+```
