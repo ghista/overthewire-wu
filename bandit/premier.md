@@ -36,3 +36,15 @@ bandit@labs:~$ find _dossier_ -type f -readable ! -executable -size 1033c
 bandit@labs:~$ cd /
 bandit@labs:~$ find -group bandit6 -user bandit7 -size 33c
 ```
+
+### LEVEL 7 to 8
+```console
+bandit@labs:~$ cat data.txt | grep millionth
+```
+
+### LEVEL 8 to 9
+```console
+bandit@labs:~$ sort data.txt | uniq -u 
+```
+
+
